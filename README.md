@@ -1,4 +1,4 @@
-# 🎬 Vídeos Legais
+# 🎬 Meus Vídeos
 
 ## 📖 Sobre o projeto
 
